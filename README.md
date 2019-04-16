@@ -17,14 +17,14 @@ Nous avons développé TaskDaddy avec Expo, un framework de React-Native qui nou
 
 ## Captures d'Ecran
 
-<img src="screenshots/login.png">
+<img src="screenshots/login.png" width="250" height="500">
 
-<img src="screenshots/home.png">
+<img src="screenshots/home.png" width="250" height="500">
 
-<img src="screenshots/profile.png">
+<img src="screenshots/new_task.png" width="250" height="500">
 
-<img src="details.png">
+<img src="screenshots/details.png" width="250" height="500">
 
-<img src="feed.png">
+<img src="screenshots/feed.png" width="250" height="500">
 
-<img src="profile.png">
+<img src="screenshots/profile.png" width="250" height="500">
