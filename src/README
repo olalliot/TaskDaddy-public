@@ -1,0 +1,9 @@
+Each folder serves a specific purpose.
+
+The modules folder is for the stuff that redux interacts with.
+
+For example, an overarching Login Screen component.
+
+the model folder is for backend interaction and the data model
+
+the components folder is for react components that are re-used
