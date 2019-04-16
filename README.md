@@ -17,14 +17,14 @@ Nous avons développé TaskDaddy avec Expo, un framework de React-Native qui nou
 
 ## Captures d'Ecran
 
-![login screen] (/screenshots/login.png)
+<img src="screenshots/login.png">
 
-![home screen] (https://raw.githubusercontent.com/olalliot/TaskDaddy-public/tree/master/screenshots/home.png)
+<img src="screenshots/home.png">
 
-![new task screen] (https://raw.githubusercontent.com/olalliot/TaskDaddy-public/tree/master/screenshots/new_task.png)
+<img src="screenshots/profile.png">
 
-![task details screen] (https://raw.githubusercontent.com/olalliot/TaskDaddy-public/tree/master/screenshots/details.png)
+<img src="details.png">
 
-![feed screen] (https://raw.githubusercontent.com/olalliot/TaskDaddy-public/tree/master/screenshots/feed.png)
+<img src="feed.png">
 
-![profile screen] (https://raw.githubusercontent.com/olalliot/TaskDaddy-public/tree/master/screenshots/profile.png)
+<img src="profile.png">
